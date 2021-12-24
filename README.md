@@ -1,5 +1,4 @@
-# supervisorNotifForm
-
+supervisorNotifForm
 # git clone into directory of your choosing using terminal.
 # navigate to src directory if not there already.
 # run command "npm install" in terminal
